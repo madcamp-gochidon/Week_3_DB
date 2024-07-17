@@ -1,0 +1,180 @@
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 557-247-688
+INFO:werkzeug: * Detected change in '/home/ubuntu/week_3_DB/app/models.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:Keyword ID: 1208, Word: Trainee IAS officer Pooja Khedkar, Date: 2024-07-15, Country: india
+INFO:root:Keyword ID: 1212, Word: SpiceJet employee slaps CISF, Date: 2024-07-15, Country: india
+INFO:root:Keyword ID: 1214, Word: IFCI Share Price, Date: 2024-07-15, Country: india
+INFO:root:Keyword ID: 1256, Word: Bet365, Date: 2024-07-15, Country: israel
+INFO:root:Keyword ID: 1261, Word: Argentina vs Colombia, Date: 2024-07-15, Country: israel
+INFO:root:Keyword ID: 1359, Word: Argentina vs Colombia, Date: 2024-07-15, Country: canada
+INFO:root:Keyword ID: 1360, Word: CBC News, Date: 2024-07-15, Country: canada
+INFO:root:Keyword ID: 1362, Word: BBC news, Date: 2024-07-15, Country: canada
+INFO:root:Keyword ID: 1363, Word: Jacoby Jones, Date: 2024-07-15, Country: canada
+INFO:root:Keyword ID: 1364, Word: Espagne – Angleterre, Date: 2024-07-15, Country: canada
+INFO:root:Keyword ID: 1368, Word: Stampede attendance record, Date: 2024-07-15, Country: canada
+INFO:root:Keyword ID: 1369, Word: Attentat Donald, Date: 2024-07-15, Country: canada
+INFO:root:Keyword ID: 1374, Word: Jfk, Date: 2024-07-15, Country: canada
+INFO:root:Keyword ID: 1375, Word: Trudeau, Date: 2024-07-15, Country: canada
+INFO:root:Keyword ID: 1453, Word: Gremio, Date: 2024-07-15, Country: brazil
+INFO:root:Keyword ID: 1454, Word: Chapecoense, Date: 2024-07-15, Country: brazil
+INFO:root:Keyword ID: 1455, Word: Barrados no Baile, Date: 2024-07-15, Country: brazil
+INFO:root:Keyword ID: 1464, Word: Nautico, Date: 2024-07-15, Country: brazil
+INFO:root:Keyword ID: 1466, Word: Mega-Sena 2748, Date: 2024-07-15, Country: brazil
+INFO:root:Keyword ID: 1469, Word: Jornalista sergio Cabral, Date: 2024-07-15, Country: brazil
+INFO:root:Keyword ID: 1470, Word: Volta redonda fc, Date: 2024-07-15, Country: brazil
+INFO:root:Keyword ID: 1472, Word: Manu Bahtidão, Date: 2024-07-15, Country: brazil
+INFO:root:Keyword ID: 1633, Word: Telefe, Date: 2024-07-15, Country: argentina
+INFO:root:Keyword ID: 1638, Word: Quien canta en la final de la Copa america, Date: 2024-07-15, Country: argentina
+INFO:root:Keyword ID: 1642, Word: San martin de tucuman, Date: 2024-07-15, Country: argentina
+INFO:root:Keyword ID: 1643, Word: Ponzinibbio, Date: 2024-07-15, Country: argentina
+INFO:root:Keyword ID: 1645, Word: Patronato  Colón, Date: 2024-07-15, Country: argentina
+INFO:root:Keyword ID: 1649, Word: Julian alvarez, Date: 2024-07-15, Country: argentina
+INFO:root:Keyword ID: 1674, Word: RCN en vivo, Date: 2024-07-15, Country: colombia
+INFO:root:Keyword ID: 1675, Word: Caracol TV, Date: 2024-07-15, Country: colombia
+INFO:root:Keyword ID: 1677, Word: El ritmo que nos une, Date: 2024-07-15, Country: colombia
+INFO:root:Keyword ID: 1682, Word: Himno de Colombia, Date: 2024-07-15, Country: colombia
+INFO:root:Keyword ID: 1752, Word: يامال, Date: 2024-07-15, Country: saudi_arabia
+INFO:root:Keyword ID: 1753, Word: رودري, Date: 2024-07-15, Country: saudi_arabia
+INFO:root:Keyword ID: 1754, Word: برلين, Date: 2024-07-15, Country: saudi_arabia
+INFO:root:Keyword ID: 1755, Word: بريطانيا, Date: 2024-07-15, Country: saudi_arabia
+INFO:root:Keyword ID: 1756, Word: جازان, Date: 2024-07-15, Country: saudi_arabia
+INFO:root:Keyword ID: 1758, Word: الارجنتين, Date: 2024-07-15, Country: saudi_arabia
+INFO:root:Keyword ID: 1759, Word: النصر, Date: 2024-07-15, Country: saudi_arabia
+INFO:root:Keyword ID: 1760, Word: جامعه الملك عبد العزيز, Date: 2024-07-15, Country: saudi_arabia
+INFO:root:Keyword ID: 1761, Word: الدوري السعودي, Date: 2024-07-15, Country: saudi_arabia
+INFO:root:Keyword ID: 1762, Word: حمدان بن محمد بن راشد آل مكتوم, Date: 2024-07-15, Country: saudi_arabia
+INFO:root:Keyword ID: 1764, Word: نهائي ويمبلدون, Date: 2024-07-15, Country: saudi_arabia
+INFO:root:Keyword ID: 1765, Word: موراتا, Date: 2024-07-15, Country: saudi_arabia
+INFO:root:Keyword ID: 1766, Word: لابورت, Date: 2024-07-15, Country: saudi_arabia
+INFO:root:Keyword ID: 1767, Word: بيدري, Date: 2024-07-15, Country: saudi_arabia
+INFO:root:Keyword ID: 1768, Word: سعر الدولار اليوم مقابل الجنيه المصرى, Date: 2024-07-15, Country: saudi_arabia
+INFO:root:Keyword ID: 1769, Word: محمود عزت العلايلي, Date: 2024-07-15, Country: saudi_arabia
+INFO:root:Keyword ID: 1770, Word: منتخب مصر الاولمبي, Date: 2024-07-15, Country: saudi_arabia
+INFO:root:Keyword ID: 1771, Word: سعر جرام الذهب عيار 21 سعر الذهب اليوم, Date: 2024-07-15, Country: saudi_arabia
+INFO:root:Keyword ID: 1852, Word: Sporza, Date: 2024-07-15, Country: belgium
+INFO:root:Keyword ID: 1855, Word: Ralf Schumacher, Date: 2024-07-15, Country: belgium
+INFO:root:Keyword ID: 1859, Word: Limbourg, Date: 2024-07-15, Country: belgium
+INFO:root:Keyword ID: 1860, Word: Espagne Angleterre, Date: 2024-07-15, Country: belgium
+INFO:root:Keyword ID: 1870, Word: Carvajal, Date: 2024-07-15, Country: belgium
+INFO:root:Keyword ID: 2036, Word: Dailymail, Date: 2024-07-15, Country: finland
+INFO:root:Keyword ID: 2039, Word: Pele, Date: 2024-07-15, Country: finland
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+INFO:root:Keyword ID: 1208, Word: Trainee IAS officer Pooja Khedkar, Date: 2024-07-15, Country: india
+INFO:root:Keyword ID: 1212, Word: SpiceJet employee slaps CISF, Date: 2024-07-15, Country: india
+INFO:root:Keyword ID: 1214, Word: IFCI Share Price, Date: 2024-07-15, Country: india
+INFO:root:Keyword ID: 1256, Word: Bet365, Date: 2024-07-15, Country: israel
+INFO:root:Keyword ID: 1261, Word: Argentina vs Colombia, Date: 2024-07-15, Country: israel
+INFO:root:Keyword ID: 1359, Word: Argentina vs Colombia, Date: 2024-07-15, Country: canada
+INFO:root:Keyword ID: 1360, Word: CBC News, Date: 2024-07-15, Country: canada
+INFO:root:Keyword ID: 1362, Word: BBC news, Date: 2024-07-15, Country: canada
+INFO:root:Keyword ID: 1363, Word: Jacoby Jones, Date: 2024-07-15, Country: canada
+INFO:root:Keyword ID: 1364, Word: Espagne – Angleterre, Date: 2024-07-15, Country: canada
+INFO:root:Keyword ID: 1368, Word: Stampede attendance record, Date: 2024-07-15, Country: canada
+INFO:root:Keyword ID: 1369, Word: Attentat Donald, Date: 2024-07-15, Country: canada
+INFO:root:Keyword ID: 1374, Word: Jfk, Date: 2024-07-15, Country: canada
+INFO:root:Keyword ID: 1375, Word: Trudeau, Date: 2024-07-15, Country: canada
+INFO:root:Keyword ID: 1453, Word: Gremio, Date: 2024-07-15, Country: brazil
+INFO:root:Keyword ID: 1454, Word: Chapecoense, Date: 2024-07-15, Country: brazil
+INFO:root:Keyword ID: 1455, Word: Barrados no Baile, Date: 2024-07-15, Country: brazil
+INFO:root:Keyword ID: 1464, Word: Nautico, Date: 2024-07-15, Country: brazil
+INFO:root:Keyword ID: 1466, Word: Mega-Sena 2748, Date: 2024-07-15, Country: brazil
+INFO:root:Keyword ID: 1469, Word: Jornalista sergio Cabral, Date: 2024-07-15, Country: brazil
+INFO:root:Keyword ID: 1470, Word: Volta redonda fc, Date: 2024-07-15, Country: brazil
+INFO:root:Keyword ID: 1472, Word: Manu Bahtidão, Date: 2024-07-15, Country: brazil
+INFO:root:Keyword ID: 1633, Word: Telefe, Date: 2024-07-15, Country: argentina
+INFO:root:Keyword ID: 1638, Word: Quien canta en la final de la Copa america, Date: 2024-07-15, Country: argentina
+INFO:root:Keyword ID: 1642, Word: San martin de tucuman, Date: 2024-07-15, Country: argentina
+INFO:root:Keyword ID: 1643, Word: Ponzinibbio, Date: 2024-07-15, Country: argentina
+INFO:root:Keyword ID: 1645, Word: Patronato  Colón, Date: 2024-07-15, Country: argentina
+INFO:root:Keyword ID: 1649, Word: Julian alvarez, Date: 2024-07-15, Country: argentina
+INFO:root:Keyword ID: 1674, Word: RCN en vivo, Date: 2024-07-15, Country: colombia
+INFO:root:Keyword ID: 1675, Word: Caracol TV, Date: 2024-07-15, Country: colombia
+INFO:root:Keyword ID: 1677, Word: El ritmo que nos une, Date: 2024-07-15, Country: colombia
+INFO:root:Keyword ID: 1682, Word: Himno de Colombia, Date: 2024-07-15, Country: colombia
+INFO:root:Keyword ID: 1752, Word: يامال, Date: 2024-07-15, Country: saudi_arabia
+INFO:root:Keyword ID: 1753, Word: رودري, Date: 2024-07-15, Country: saudi_arabia
+INFO:root:Keyword ID: 1754, Word: برلين, Date: 2024-07-15, Country: saudi_arabia
+INFO:root:Keyword ID: 1755, Word: بريطانيا, Date: 2024-07-15, Country: saudi_arabia
+INFO:root:Keyword ID: 1756, Word: جازان, Date: 2024-07-15, Country: saudi_arabia
+INFO:root:Keyword ID: 1758, Word: الارجنتين, Date: 2024-07-15, Country: saudi_arabia
+INFO:root:Keyword ID: 1759, Word: النصر, Date: 2024-07-15, Country: saudi_arabia
+INFO:root:Keyword ID: 1760, Word: جامعه الملك عبد العزيز, Date: 2024-07-15, Country: saudi_arabia
+INFO:root:Keyword ID: 1761, Word: الدوري السعودي, Date: 2024-07-15, Country: saudi_arabia
+INFO:root:Keyword ID: 1762, Word: حمدان بن محمد بن راشد آل مكتوم, Date: 2024-07-15, Country: saudi_arabia
+INFO:root:Keyword ID: 1764, Word: نهائي ويمبلدون, Date: 2024-07-15, Country: saudi_arabia
+INFO:root:Keyword ID: 1765, Word: موراتا, Date: 2024-07-15, Country: saudi_arabia
+INFO:root:Keyword ID: 1766, Word: لابورت, Date: 2024-07-15, Country: saudi_arabia
+INFO:root:Keyword ID: 1767, Word: بيدري, Date: 2024-07-15, Country: saudi_arabia
+INFO:root:Keyword ID: 1768, Word: سعر الدولار اليوم مقابل الجنيه المصرى, Date: 2024-07-15, Country: saudi_arabia
+INFO:root:Keyword ID: 1769, Word: محمود عزت العلايلي, Date: 2024-07-15, Country: saudi_arabia
+INFO:root:Keyword ID: 1770, Word: منتخب مصر الاولمبي, Date: 2024-07-15, Country: saudi_arabia
+INFO:root:Keyword ID: 1771, Word: سعر جرام الذهب عيار 21 سعر الذهب اليوم, Date: 2024-07-15, Country: saudi_arabia
+INFO:root:Keyword ID: 1852, Word: Sporza, Date: 2024-07-15, Country: belgium
+INFO:root:Keyword ID: 1855, Word: Ralf Schumacher, Date: 2024-07-15, Country: belgium
+INFO:root:Keyword ID: 1859, Word: Limbourg, Date: 2024-07-15, Country: belgium
+INFO:root:Keyword ID: 1860, Word: Espagne Angleterre, Date: 2024-07-15, Country: belgium
+INFO:root:Keyword ID: 1870, Word: Carvajal, Date: 2024-07-15, Country: belgium
+INFO:root:Keyword ID: 2036, Word: Dailymail, Date: 2024-07-15, Country: finland
+INFO:root:Keyword ID: 2039, Word: Pele, Date: 2024-07-15, Country: finland
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 557-247-688
+INFO:werkzeug: * Detected change in '/home/ubuntu/week_3_DB/app/models.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:Country: india
+INFO:root:Country: israel
+INFO:root:Country: canada
+INFO:root:Country: brazil
+INFO:root:Country: argentina
+INFO:root:Country: colombia
+INFO:root:Country: saudi_arabia
+INFO:root:Country: belgium
+INFO:root:Country: finland
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+INFO:root:Country: india
+INFO:root:Country: israel
+INFO:root:Country: canada
+INFO:root:Country: brazil
+INFO:root:Country: argentina
+INFO:root:Country: colombia
+INFO:root:Country: saudi_arabia
+INFO:root:Country: belgium
+INFO:root:Country: finland
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 557-247-688
+INFO:werkzeug: * Detected change in '/home/ubuntu/week_3_DB/app/models.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:Country: india, Keywords without news: 3
+INFO:root:Country: israel, Keywords without news: 2
+INFO:root:Country: canada, Keywords without news: 9
+INFO:root:Country: brazil, Keywords without news: 8
+INFO:root:Country: argentina, Keywords without news: 6
+INFO:root:Country: colombia, Keywords without news: 4
+INFO:root:Country: saudi_arabia, Keywords without news: 18
+INFO:root:Country: belgium, Keywords without news: 5
+INFO:root:Country: finland, Keywords without news: 2
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+INFO:root:Country: india, Keywords without news: 3
+INFO:root:Country: israel, Keywords without news: 2
+INFO:root:Country: canada, Keywords without news: 9
+INFO:root:Country: brazil, Keywords without news: 8
+INFO:root:Country: argentina, Keywords without news: 6
+INFO:root:Country: colombia, Keywords without news: 4
+INFO:root:Country: saudi_arabia, Keywords without news: 18
+INFO:root:Country: belgium, Keywords without news: 5
+INFO:root:Country: finland, Keywords without news: 2
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 557-247-688

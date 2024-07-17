@@ -1,0 +1,13 @@
+Flask
+Flask-SQLAlchemy==2.5.1
+SQLAlchemy==1.4.46
+pymysql
+python-dotenv
+pytrends
+pandas
+deep_translator
+wordcloud
+Pillow
+numpy
+Flask-CORS
+Werkzeug==2.3.6

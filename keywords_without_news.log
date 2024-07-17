@@ -1,0 +1,31 @@
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:3000
+ * Running on http://10.0.15.32:3000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:3000
+ * Running on http://10.0.15.32:3000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:143.248.193.103 - - [15/Jul/2024 04:08:37] "GET /api/get_keyword_and_news/CA HTTP/1.1" 200 -
+INFO:werkzeug:143.248.193.103 - - [15/Jul/2024 04:08:37] "GET /api/get_keyword_and_news/CA HTTP/1.1" 200 -
+INFO:werkzeug:143.248.193.103 - - [15/Jul/2024 04:09:04] "GET /api/get_keyword_and_news/SA HTTP/1.1" 200 -
+INFO:werkzeug:143.248.193.103 - - [15/Jul/2024 04:09:04] "GET /api/get_keyword_and_news/SA HTTP/1.1" 200 -
+INFO:werkzeug:143.248.193.103 - - [15/Jul/2024 04:09:27] "GET /api/get_keyword_and_news/SA HTTP/1.1" 200 -
+INFO:werkzeug:143.248.193.103 - - [15/Jul/2024 04:09:27] "GET /api/get_keyword_and_news/SA HTTP/1.1" 200 -
+INFO:werkzeug:143.248.193.103 - - [15/Jul/2024 04:09:51] "[33mGET /api/get_keyword_and_news/KP HTTP/1.1[0m" 404 -
+INFO:werkzeug:143.248.193.103 - - [15/Jul/2024 04:09:51] "[33mGET /api/get_keyword_and_news/KP HTTP/1.1[0m" 404 -
+INFO:werkzeug:143.248.193.103 - - [15/Jul/2024 04:10:28] "GET /api/get_keyword_and_news/SA HTTP/1.1" 200 -
+INFO:werkzeug:143.248.193.103 - - [15/Jul/2024 04:10:28] "GET /api/get_keyword_and_news/SA HTTP/1.1" 200 -
+INFO:werkzeug:143.248.193.103 - - [15/Jul/2024 04:11:06] "GET /api/get_keyword_and_news/BR HTTP/1.1" 200 -
+INFO:werkzeug:143.248.193.103 - - [15/Jul/2024 04:11:06] "GET /api/get_keyword_and_news/BR HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:3000
+ * Running on http://10.0.15.32:3000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:143.248.193.103 - - [15/Jul/2024 04:12:39] "GET /api/get_keyword_and_news/KR HTTP/1.1" 200 -
+INFO:werkzeug:143.248.193.103 - - [15/Jul/2024 04:12:39] "GET /api/get_keyword_and_news/KR HTTP/1.1" 200 -
+INFO:werkzeug:143.248.193.103 - - [15/Jul/2024 04:12:49] "GET /api/get_keyword_and_news/BR HTTP/1.1" 200 -
+INFO:werkzeug:143.248.193.103 - - [15/Jul/2024 04:12:49] "GET /api/get_keyword_and_news/BR HTTP/1.1" 200 -
